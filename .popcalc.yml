@@ -1,4 +1,4 @@
-Enviroment:
+Environment:
   - Target : Chrome
   - Version : 63.0.0.1
   - Platform : "x64"
